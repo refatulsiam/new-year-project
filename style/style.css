@@ -115,6 +115,7 @@
     width: 160px;
     height: 64px;
     border-radius: 5px;
+    border: none;
 }
 footer{
     background: #151414;
